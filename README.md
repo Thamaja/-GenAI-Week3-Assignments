@@ -45,3 +45,8 @@ address using the Gmail account of the script owner.
 |---|---|---|---|---|
 | alice@example.com | Welcome! | Hi Alice… | Sent | 16/05/2026 14:32:05 |
 | bob@example.com | Hello Bob | Dear Bob… | | |
+
+
+Test Evidence: 
+<img width="1472" height="297" alt="image" src="https://github.com/user-attachments/assets/c61b74a1-cb5e-4d7a-bdf3-981e417884c3" />
+
