@@ -1,6 +1,6 @@
 # -GenAI-Week3-Assignments
 
-# Gmail Email Sender Automation (Google Apps Script) - Send emails to multiple people using data from Google Sheets
+# Gmail Email Sender Automation (Google Apps Script) -> Send emails to multiple people using data from Google Sheets
 
 ## What the Script Does
 
